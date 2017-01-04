@@ -1,0 +1,14 @@
+{
+  "name": "climate-example",
+  "version": "1.0.0",
+  "description": "An example climate application",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "climate-cli": "file:../climate-cli",
+    "express": "^4.14.0"
+  }
+}
