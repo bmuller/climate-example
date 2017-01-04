@@ -18,7 +18,7 @@ This will mean that the local climate-cli folder will be used in this project.
 
 In one window (to run the climate service):
 ```
-$> yarn run climate s
+$> ./node_modules/.bin/climate s
 ```
 
 In another window (to run the local server, which could include browserify/webpacking/etc):
