@@ -12,7 +12,7 @@ $> yarn link climate-cli
 $> yarn add file:../climate-cli
 ```
 
-This will mean that the local climate-cli folder will be used in this project.
+This will mean that the local climate-cli folder will be used in this project.  Also, you should copy the `env` file to `.env` and fill in the secrets.
 
 # To Run
 
